@@ -1,0 +1,5 @@
+India Air Quality:
+Dataset link: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data/code?datasetId=1675&searchQuery=model+
+
+Indian Latitudes and Longitudes:
+Dataset link: https://www.kaggle.com/datasets/danishxr/poptable
